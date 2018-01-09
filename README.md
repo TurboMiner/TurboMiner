@@ -4,7 +4,7 @@ Designed from the ground up to maximize mining profitability.
 TurboMiner contains a super optimized mining kernel to bring maximum possible hash rates to miners.<br />
 Next generation features like "Stale Share Reduction" reduce stale shares to less than 1% to maximize mining income.<br />
 
-Half the development fees of competing miners with higher returns.
+Development fee of just 0.5%.
 
 TurboMiner gives you full control over your GPU cards for overclocking and fan / temperature control and provides important feedback on hash rates and power usage to allow you to tune for an optimal performance (Average watts per hash etc.)
 
